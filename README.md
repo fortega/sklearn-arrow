@@ -2,5 +2,5 @@
 
 Train and test Sklean linear regression serving using `do_exchange`
 
-- server.ipynb arrow flight server
+- server.py arrow flight server
 - client.ipynb arrow flight client

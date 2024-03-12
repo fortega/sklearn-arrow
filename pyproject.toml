@@ -6,7 +6,7 @@ authors = ["Felipe Ortega <felipeortegabustamante@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.9"
 pyarrow = "^15.0.1"
 pandas = "^2.2.1"
 scikit-learn = "^1.4.1.post1"
